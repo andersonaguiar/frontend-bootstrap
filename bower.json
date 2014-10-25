@@ -1,7 +1,7 @@
 {
-  "name": "desafiocontaazul",
+  "name": "bootstrap-frontend",
   "version": "0.1",
-  "description": "Desafio - Conta Azul",
+  "description": "bootstrap-frontend",
   "license": "MIT",
   "private": true,
   "ignore": [
