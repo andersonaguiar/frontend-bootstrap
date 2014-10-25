@@ -1,0 +1,4 @@
+Etapas para o teste:
+
+1 - [sudo] npm install
+2 - grunt dev
