@@ -1,0 +1,24 @@
+{
+  "name": "desafiocontaazul",
+  "version": "0.1",
+  "description": "Desafio - Conta Azul",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "build",
+    "speed",
+    "test",
+    "test*",
+    "*.md",
+    "*.txt",
+    "LICENSE",
+    "Gruntfile.js",
+    "package.json",
+    "bower.json",
+    ".bower.json"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.1"
+  }
+}
